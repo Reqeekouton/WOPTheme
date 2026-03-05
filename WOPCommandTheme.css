@@ -20,8 +20,8 @@
 /*---- IMPORTS ----*/
 /*-----------------*/
 
-@import url('https://info.ect.fyi/Basalt/normalize-min.css');
-@import url('https://info.ect.fyi/Basalt/basalt-bedrock-min.css');
+@import url('https://woptheme.pages.dev/importcss/normalize-min.css');
+@import url('https://woptheme.pages.dev/importcss/basalt-bedrock-min.css');
 @import url('https://npm.elemecdn.com/font-awesome@4.7.0/css/font-awesome.min.css');
 @import url('https://fonts.googleapis.com/css2?family=Sofia+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
@@ -88,7 +88,7 @@ a#account-topbutton:is(:hover, :focus-within)::before {
     /*----------------------*/
 
     --header-logo: var(--logo);
-    --logo: url("https://wop-command.wdfiles.com/local--files/theme/penlogoround_l.png");
+    --logo: url("https://woptheme.pages.dev/images/penlogoround_l_command.png");
     --header-title: var(--title);
     --header-subtitle: var(--subtitle);
     --header-logo-size:70%;
@@ -1185,7 +1185,7 @@ div.page-rate-widget-box .rate-points {
     /*---- (DARK MODE) -----*/
     /*----------------------*/
 
-    --logo: url("https://wop-command.wdfiles.com/local--files/theme/penlogoround.svg");
+    --logo: url("https://woptheme.pages.dev/images/penlogoround_commamd.svg");
 
     --basalt-overtone: 180, 180, 181;
     --basalt-UI-dark-palette: 55, 55, 56;
