@@ -3,6 +3,8 @@
 
 版式基于[玄武岩](https://github.com/Basalt-Team/Basalt)版式修改，特别致谢Basalt Team。
 
+特别的，WOPFoolTheme是纸上书在愚人节时使用的版式，每年都会有可能的变化。
+
 ## 贡献者名单
 
 ### 代码贡献
