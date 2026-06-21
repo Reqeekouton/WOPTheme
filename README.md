@@ -15,7 +15,7 @@
 **注：** 名单可能存在不完整的情况，因时间久远，加上部分贡献者较难联系。
 
 ### 设计贡献
-- Ectaha（2023）：绘制本站LOGO
+- Ectaha（2023、2026）：绘制本站LOGO
 
 ## 当前维护团队
 - [Yale Max Rymingenu](https://www.wikidot.com/user:info/yale-max-rymingenu)
