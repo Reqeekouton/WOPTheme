@@ -1,5 +1,5 @@
 # WOPTheme
-这是[纸上书](https://write-on-paper.wikidot.com)网站及其附属网站的版式主题仓库，由网站中工作方向为“技术”的站务人员负责维护工作。
+这是[纸上书](https://write-on-paper.wikidot.com)网站及其附属网站的版式主题仓库，由网站中工作方向为“技术”的[站务人员](https://write-on-paper.wikidot.com/help:contact)负责维护工作。
 
 版式基于[玄武岩](https://github.com/Basalt-Team/Basalt)版式修改，特别致谢Basalt Team。
 
@@ -15,7 +15,7 @@
 **注：** 名单可能存在不完整的情况，因时间久远，加上部分贡献者较难联系。
 
 ### 设计贡献
-- Ectaha（2023、2026）：绘制本站LOGO
+- Ectaha（2023、2026.06）：绘制本站LOGO
 
 ## 当前维护团队
 - [Yale Max Rymingenu](https://www.wikidot.com/user:info/yale-max-rymingenu)
